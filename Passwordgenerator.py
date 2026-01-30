@@ -1,7 +1,10 @@
 '''
 Password generator
 A simple password generator that creates a random password based on user-defined criteria.
-
+By: Mohamad El-Chal
+Creation Date: Jan 27 2025
+Last Edit:Jan 29 2025
+Version number: 1.0
 '''
 import random, string, time, os, sys
 
